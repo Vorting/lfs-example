@@ -1,3 +1,6 @@
 IMG_3905.MOV filter=lfs diff=lfs merge=lfs -text
 spruce_toys.jpg filter=lfs diff=lfs merge=lfs -text
 house.jpg filter=lfs diff=lfs merge=lfs -text
+PXL_video.mp4 filter=lfs diff=lfs merge=lfs -text
+video1.MOV filter=lfs diff=lfs merge=lfs -text
+video2.MOV filter=lfs diff=lfs merge=lfs -text
